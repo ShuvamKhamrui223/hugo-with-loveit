@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - My New Hugo Site</title>
+        <link>https://ShuvamKhamrui223.github.io/hugo-with-loveit.git/posts/</link>
+        <description>All Posts | My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 22 Mar 2025 21:08:35 &#43;0530</lastBuildDate><atom:link href="https://ShuvamKhamrui223.github.io/hugo-with-loveit.git/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>First_post</title>
+    <link>https://ShuvamKhamrui223.github.io/hugo-with-loveit.git/posts/first_post/</link>
+    <pubDate>Sat, 22 Mar 2025 21:08:35 &#43;0530</pubDate>
+    <author>xxxx</author>
+    <guid>https://ShuvamKhamrui223.github.io/hugo-with-loveit.git/posts/first_post/</guid>
+    <description><![CDATA[<h2 id="hello">hello</h2>]]></description>
+</item>
+</channel>
+</rss>
